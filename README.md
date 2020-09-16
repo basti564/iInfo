@@ -11,4 +11,4 @@
 - Detect some popular tweaks (Filza, NewTerm, MTerminal, Anemone, CyDown)
 - Detect some AppleInternal apps
 ## dependencies
-- [ideviceinstaller](https://formulae.brew.sh/formula/ideviceinstaller) from [Homeberew](https://brew.sh/)
+- [ideviceinstaller](https://formulae.brew.sh/formula/ideviceinstaller) from [Homebrew](https://brew.sh/)
